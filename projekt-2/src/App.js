@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import CurrencyForm from "./components/CurrencyForm/CurrencyForm.js";
-import Loader from "./components/Loader/Loader.js";
-import Result from "./components/Result/Result.js";
+import CurrencyForm from "./components/CurrencyForm/CurrencyForm";
+import Loader from "./components/Loader/Loader";
+import Result from "./components/Result/Result";
 import "./styles.css";
 
 class App extends Component {
